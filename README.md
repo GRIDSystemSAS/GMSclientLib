@@ -6,4 +6,4 @@ You will find precompiled dll binary for Windows, and the Visual Studio project.
 
 The original library source is available [here](https://github.com/VincentGsell/GMS/tree/master/Solutions/Applications/Pascal/ClientLib)
 
-The [server](https://github.com/VincentGsell/GMS) is available on [various platform, check all binaries here](www.gridserver.org), and could be used as a general messaging purpose system. Please read server description for details.
+The [server](https://github.com/VincentGsell/GMS) is available on [various platform, check all binaries here](http://www.gridserver.org), and could be used as a general messaging purpose system. Please read server description for details.
